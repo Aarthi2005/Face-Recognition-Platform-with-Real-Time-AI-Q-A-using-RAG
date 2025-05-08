@@ -109,6 +109,8 @@ In terminal run python rag_server.py and open another terminal and run python cl
 
 https://drive.google.com/file/d/1fjKFpKfw-2YVJQgOQWiDtu11tVh-Ezuy/view?usp=sharing
 
+"This project is a part of a hackathon run by https://katomaran.com"
+
 
 
 
