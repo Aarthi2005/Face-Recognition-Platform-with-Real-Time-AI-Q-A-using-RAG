@@ -105,6 +105,11 @@ In terminal run python rag_server.py and open another terminal and run python cl
 ![Screenshot 2025-05-08 110654](https://github.com/user-attachments/assets/3af331da-ca28-4213-9410-7424607d1807)
 
 
+### Video Demo
+
+https://drive.google.com/file/d/1fjKFpKfw-2YVJQgOQWiDtu11tVh-Ezuy/view?usp=sharing
+
+
 
 
 
